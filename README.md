@@ -1,4 +1,4 @@
 # new-repo
 my new repo
 <br>
-author - husnain raza
+author - husnain raza(ch)
